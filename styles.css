@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://getwallpapers.org/wp-content/uploads/2021/08/Clouds-Wallpaper.jpg");
+}
+img{
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  h1 {font-family: verdana;
+    text-align: center;
+}
+h2 {font-family: verdana;
+  text-align: center;
+}
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
